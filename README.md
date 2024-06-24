@@ -12,7 +12,5 @@ Undergrad Student <br>🌱 I’m currently learning Web Development<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prashant-chapagain&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-chapagain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
