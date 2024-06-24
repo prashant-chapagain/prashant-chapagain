@@ -1,5 +1,5 @@
-# 💫 About Me:
-Undergrad Student <br>🌱 I’m currently learning Web Development<br>
+
+Undergrad Student Interested in AI and Backend Web Development <br>🌱 I’m currently learning Web Development<br>
 
 
 ## 🌐 Socials:
